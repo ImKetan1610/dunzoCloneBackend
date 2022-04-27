@@ -1,4 +1,4 @@
 
 # Dunzo Clone Backend
 
-![dunzoclonebackend](https://dunzoclonebackend.netlify.app/images/alibaba_snap1.png)
+![dunzoclonebackend](https://dunzoclonebackend.netlify.app/images/dunzoclonebackend.png)
