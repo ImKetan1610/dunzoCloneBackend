@@ -17,11 +17,11 @@ A collaborative project built by a team of 5, executed in 5 days.
 <b> Features: <b>
 <ul>
   <li>User Login/Sign up</li>
-  <li>Groceries & essentials And Vegetables section<li>
-  <li>Data of various shops present near the customer's location and adding to cart options<li>
-  <li>Dynamic checkout page.<li>
+  <li>Groceries & essentials And Vegetables section</li>
+  <li>Data of various shops present near the customer's location and adding to cart options</li>
+  <li>Dynamic checkout page.</li>
 </ul>
 <hr />
   <b>Tech Stack: HTML | CSS | Javascript | JSON |Localstorage</b>
   
-  <b> Live Link </b> [Dunzo Clone Backend]()
+  <b> Live Link </b> [Dunzo Clone Backend](https://dunzo-clone-backend.vercel.app/)
