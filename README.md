@@ -1,4 +1,4 @@
 
 # Dunzo Clone Backend
 
-![dunzoCloneBackend](https://github.com/ImKetan1610/dunzoCloneBackend/img/dunzoclonebackend.png)
+![dunzoCloneBackend](https://drive.google.com/file/d/1BDi06sX_qnuAvi8HGwz6nVyZvLD_la6D/view?usp=sharing)
